@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Joshhortt/hundred-devs">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="public/static/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">100DevsBootcamp</h3>
