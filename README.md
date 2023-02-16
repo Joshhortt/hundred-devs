@@ -40,6 +40,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
+   <li><a href="#tailwind-nextjs-starter-blog">Tailwind Nextjs Starter Blog</a></li>
     <li><a href="#quickstartguide">Quick Start Guide</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#development">Development</a></li>
@@ -295,7 +296,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/Joshhortt/hundred-devs/blob/master/LICENSE.txt
 [twitter-shield]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [twitter-url]: https://twitter.com/josh_hortt
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: public/static/images/screenshot.png
 [markdown]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
 [markdown-url]: https://www.markdownguide.org/
 [html5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
@@ -318,6 +319,29 @@ Use this space to list resources you find helpful and would like to give credit 
 [mongodb-url]: https://www.mongodb.com
 [hashnode]: https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white
 [hashnode-url]: https://hashnode.com/
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+![tailwind-nextjs-banner](/public/static/images/twitter-card.png)
+
+<!-- TAILWIND NEXTJS STARTER BLOG -->
+
+## Tailwind Nextjs Starter Blog
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/timlrx/tailwind-nextjs-starter-blog?style=social)](https://GitHub.com/timlrx/tailwind-nextjs-starter-blog/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/timlrx/tailwind-nextjs-starter-blog?style=social)](https://GitHub.com/timlrx/tailwind-nextjs-starter-blog/network/)
+[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ftimlrxx)](https://twitter.com/timlrxx)
+[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/timlrx)](https://github.com/sponsors/timlrx)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/timlrx/tailwind-nextjs-starter-blog)
+
+This is a [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/) blogging starter template. Probably the most feature-rich Next.js markdown blogging template out there. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
+
+Check out the documentation below to get started.
+
+Facing issues? Check the [FAQ page](https://github.com/timlrx/tailwind-nextjs-starter-blog/wiki) and do a search on past issues. Feel free to open a new issue if none has been posted previously.
+
+Feature request? Check the past discussions to see if it has been brought up previously. Otherwise, feel free to start a new discussion thread. All ideas are welcomed!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -357,11 +381,15 @@ npx degit https://github.com/timlrx/tailwind-nextjs-starter-blog.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- INSTALLATION -->
+
 ### Installation
 
 ```bash
 npm install
 ```
+
+<!-- DEVELOPMENT -->
 
 ## Development
 
@@ -382,6 +410,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- EXTEND & CUSTOMIZE -->
 
 ## Extend / Customize
 
@@ -414,6 +444,8 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 `pages` - pages to route to. Read the [Next.js documentation](https://nextjs.org/docs) for more information.
 
 `next.config.js` - configuration related to Next.js. You need to adapt the Content Security Policy if you want to load scripts, images etc. from other domains.
+
+<!-- POST -->
 
 ## Post
 
@@ -462,6 +494,8 @@ canonicalUrl: https://tailwind-nextjs-starter-blog.vercel.app/blog/introducing-t
 Run `node ./scripts/compose.js` to bootstrap a new post.
 
 Follow the interactive prompt to generate a post with pre-filled front matter.
+
+<!-- DEPLOY -->
 
 ## Deploy
 
