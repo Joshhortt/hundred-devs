@@ -320,7 +320,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [hashnode]: https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white
 [hashnode-url]: https://hashnode.com/
 
-![tailwind-nextjs-banner](/public/static/images/twitter-card.png)
+![tailwind-nextjs-banner](/public/static/images/twitter-banner.png)
 
 <!-- TAILWIND NEXTJS STARTER BLOG -->
 
