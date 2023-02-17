@@ -210,7 +210,7 @@ Please use the appropriate help channel on Discord. If you have something that c
 - [Class 28: JavaScript API Practice For Beginners](https://youtu.be/G7XJRLaq2Cw)
 - [Class 29: Review The Basics Of JavaScript](https://youtu.be/EOjUT746oLs)
 - [Class 30: OOP But It Actually Makes Sense](https://youtu.be/GihfY5OVDdk)
-- [Class 31: Class 31: What Is Inheritance & Polymorphism?](https://youtu.be/PD-dx92RJtg)
+- [Class 31: What Is Inheritance & Polymorphism?](https://youtu.be/PD-dx92RJtg)
 - [Class 32: Object Oriented Programming w/ JS Review](https://youtu.be/yEhs4XtuAgA)
 - [Class 33: Why You Are Not Getting Interviews! Secrets To Landing Your First Tech Job](https://youtu.be/lIE1LFz4LJM)
 - [Class 34: Crush Your Technical Interviews! Secrets To Landing Your First Tech Job](https://youtu.be/KM1RyffIKMg)
