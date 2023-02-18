@@ -222,7 +222,7 @@ Please use the appropriate help channel on Discord. If you have something that c
 - [Class 39: CRUD APIs For Beginners](https://youtu.be/zHq0v5RD_Zk)
 - [Class 40: What is MongoDB? CRUD Apps For Beginners](https://youtu.be/3eafTTnEfMw)
 - [Class 41: Build A Simple CRUD App With Express, MongoDB, & EJS](https://youtu.be/LHf_STV_rLE)
-- [Class 42: Full Stack open 2022](https://fullstackopen.com/en/part3/node_js_and_express)
+- [Class 42: Recap Last Weeks & What is coming Next Weeks](https://fullstackopen.com/en/part3/node_js_and_express)
 - [Class 43: Traversy media - Node.js App From Scratch | Express, MongoDB & Google OAuth](https://youtu.be/SBvmnHTQIPY)
 - [Class 44 & 45: How To Build Fullstack Apps With Javascript! Easy To Understand!](https://youtu.be/jZ-kmmgi_d0)
 - [Class 46 & 47: Build A Node.js MVC App! Complete Easy Walkthrough! (class 46/47)](https://youtu.be/SVX_HMum0n4)
