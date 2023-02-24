@@ -1,6 +1,6 @@
 const siteMetadata = {
   title: '100devs',
-  author: 'José Horta',
+  author: 'José Calvário',
   developer: 'Joshhortt',
   headerTitle: '100devs',
   description: '100Devs past follow-along materials, homework and class files.',

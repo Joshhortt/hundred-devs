@@ -1,5 +1,5 @@
 ---
-name: José Horta
+name: José Calvário
 avatar: /static/images/avatar.png
 occupation: Software Engineer
 company: Creative Lightbox
