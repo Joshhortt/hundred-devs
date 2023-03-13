@@ -3,7 +3,7 @@ const siteMetadata = {
   author: 'José Calvário',
   developer: 'Joshhortt',
   headerTitle: '100devs',
-  description: '100Devs past follow-along materials, homework and class files.',
+  description: '100Devs past follow-along materials.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://hundred-devs.vercel.app',
