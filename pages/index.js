@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import Link from '@/components/Link'
 import { PageSEO } from '@/components/SEO'
 import Tag from '@/components/Tag'
@@ -28,10 +29,14 @@ export default function Home({ posts }) {
             {siteMetadata.description}
           </p>
         </div>
-        <img
-          src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670953726498/srISn-PoF.png?auto=compress"
-          alt="Learn with Leon"
-        />
+        <picture>
+          <img
+            src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670953726498/srISn-PoF.png?auto=compress"
+            alt="Learn with Leon"
+            width={800}
+            height={600}
+          />
+        </picture>
         <br />
         <br />
         <ul className="divide-y divide-gray-200 dark:divide-gray-700">
