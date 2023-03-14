@@ -1,11 +1,9 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'About page',
+    description: `This project was my first HTML about page. Here is where I started my Software Engineering journey`,
+    imgSrc: '/static/images/class01-about.png',
+    href: 'https://github.com/Joshhortt/100DevsBootcamp/tree/main/class01',
   },
   {
     title: 'The Time Machine',
