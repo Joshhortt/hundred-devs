@@ -9,13 +9,13 @@ linkedin: https://www.linkedin.com
 github: https://github.com/Joshhortt
 ---
 
-### Hi, I'm José, a software engineer.
+# Hi, I'm José, a software engineer.
 
 I was looking for follow-along materials for a session that was a couple months old at the time. I quickly discovered how difficult it was to locate follow-along information for a certain lesson when it wasn't a recent class. I realized that those attempting to catch-up would suffer the same difficulties, and I wanted to assist them. So I created this website since I enjoy building Sites and help others.
 
 > I’m Confident This Will Help You
 
-# 100devs
+## 100devs
 
 ![Learn with Leon](https://cdn.hashnode.com/res/hashnode/image/upload/v1670953726498/srISn-PoF.png?auto=compress)
 
