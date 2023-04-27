@@ -162,7 +162,7 @@ Channel points are accumulated by watching the stream. They will be visible righ
 
 **House Hopper** can use channel points for reviews and interviews, and has their own private house channel in the discord. Those in House Hopper that would like to move to House Turing for the extra perks, please keep doing all of the obligations and as people move out of Turing, those in Hopper who are demonstrating dedication will be moved in.
 
-House Hamilton\*\*\*\* has the flexibility to follow along with the bootcamp without the same level of commitment as Turing and Hopper. Hamilton can use their channel points for Turing benefits
+**House Hamilton** has the flexibility to follow along with the bootcamp without the same level of commitment as Turing and Hopper. Hamilton can use their channel points for Turing benefits
 
 ### 11. What happens if you miss a stream, or want to catch up on a the old ones?
 
@@ -227,7 +227,7 @@ Please use the appropriate help channel on Discord. If you have something that c
 - [Class 44 & 45: How To Build Fullstack Apps With Javascript! Easy To Understand!](https://youtu.be/jZ-kmmgi_d0)
 - [Class 46 & 47: Build A Node.js MVC App! Complete Easy Walkthrough! (class 46/47)](https://youtu.be/SVX_HMum0n4)
 - [Class 48: How To Prepare For #THE HUNT](https://youtu.be/2ObpRuvmT48)
-- [Class 49 - 52: Easily Add Authentication To Your Node Apps! Email Logins with Passpor](https://youtu.be/z5UgtXOxEEk)
+- [Class 49 - 52: Easily Add Authentication To Your Node Apps! Email Logins with Passport](https://youtu.be/z5UgtXOxEEk)
 - [Class 53 - 55: Let's Build A Social Network with Node, Express, MongoDB, & Cloudinary](https://youtu.be/xsKGlEemTAo)
 
 See the [open issues](https://github.com/Joshhortt/100DevsBootcamp/issues) for a full list of proposed features (and known issues).
